@@ -1,0 +1,39 @@
+[
+  {
+    "image": "1.png",
+    "generated_caption": "Uma mulher está ajoelhada no chão em um banheiro, segurando uma escova de vaso sanitário na mão e olhando para o vaso sanitário. Ela parece estar escovando ou limpando o vaso sanitário. O banheiro tem uma pia e um balcão ao lado do vaso sanitário. \n\nHá uma pessoa parcialmente visível no lado esquerdo da imagem, parcialmente escondida atrás da mulher. O banheiro também tem um livro colocado sobre uma superfície no lado esquerdo."
+  },
+  {
+    "image": "2.jpg",
+    "generated_caption": "Na imagem, há um homem sentado em uma mesa de jantar ao ar livre em um restaurante, vestindo uma camisa preta com a Estrela da Morte. Ele está sorrindo e parece estar aproveitando sua refeição. A mesa está posta com vários itens, incluindo um prato de comida, uma salada e uma batata assada. \n\nHá cadeiras colocadas ao redor da mesa de jantar, e uma cadeira adicional pode ser vista mais para trás. Além disso, há outra pessoa visível no fundo, parcialmente escondida atrás do homem. O cenário parece ser um restaurante ao ar livre com uma atmosfera agradável."
+  },
+  {
+    "image": "3.jpg",
+    "generated_caption": "A imagem mostra uma mulher jogando tênis em uma quadra de grama, vestindo uma camisa rosa e shorts brancos. Ela está segurando uma raquete de tênis e parece estar no meio de um saque. A quadra é cercada por uma multidão de pessoas, incluindo espectadores e possivelmente outros jogadores, que estão assistindo ao jogo de perto. Há pelo menos doze pessoas visíveis na cena, com algumas delas mais perto da mulher e outras mais atrás. A atmosfera geral sugere um evento esportivo competitivo ou uma partida de tênis amistosa."
+  },
+  {
+    "image": "4.jpg",
+    "generated_caption": "A imagem mostra dois homens sentados em uma mesa de jantar em um ambiente de escritório, desfrutando de uma refeição juntos. A mesa está posta com vários itens, como xícaras, tigelas, colheres, um garfo e uma garrafa. Há também uma máquina de Coca-Cola ao fundo, sugerindo que eles podem estar tomando uma bebida junto com sua refeição. \n\nAlém disso, há algumas cadeiras ao redor da mesa, com uma cadeira visível no lado esquerdo e outra no lado direito. Há também uma pessoa adicional no fundo, parcialmente visível, mas não envolvida na refeição."
+  },
+  {
+    "image": "5.jpg",
+    "generated_caption": "A imagem apresenta uma bicicleta vintage com um assento sanitário pintado como um símbolo da bandeira americana. O assento sanitário é colocado em uma parede ao lado de uma cesta de bicicleta. A bicicleta e o assento sanitário são decorados com grafite, dando a eles uma aparência única. \n\nA cena acontece em um ambiente interno, com uma pessoa visível no lado esquerdo da imagem. A pessoa parece estar de pé ou caminhando perto da bicicleta e do assento sanitário."
+  },
+  {
+    "image": "6.jpg",
+    "generated_caption": "Na imagem, um homem e uma mulher estão deitados juntos em uma cama, envolvidos em um ato íntimo. Eles estão se beijando, com o homem cobrindo sua boca com a cabeça da mulher. A mulher está deitada de lado, enquanto o homem está deitado de bruços em sua cama. A cena captura um momento íntimo e romântico entre o casal."
+  },
+  {
+    "image": "7.jpg",
+    "generated_caption": "A imagem mostra uma jovem garota em pé em uma prancha de surfe na água, surfando nas ondas. Ela está usando um biquíni rosa e está posicionada no centro da prancha de surfe. A garota parece estar se divertindo enquanto surfa na onda do oceano. \n\nHá várias outras pessoas no fundo, algumas mais próximas da garota e outras mais distantes. Elas parecem estar observando ou participando da atividade de surfe. A cena captura a excitação e a diversão de um dia de praia com atividades aquáticas."
+  },
+  {
+    "image": "8.jpg",
+    "generated_caption": "A imagem mostra uma pessoa segurando uma banana e um fone de ouvido ou um MP3 player enquanto está de pé. A pessoa está usando uma camisa preta e parece estar em um ambiente urbano. A banana está no lado esquerdo da pessoa, e o fone de ouvido está no lado direito. A pessoa também está segurando um controle remoto de TV na mão, o que sugere que ela pode estar assistindo a um programa ou filme enquanto usa o fone de ouvido."
+  },
+  {
+    "image": "9.jpg",
+    "generated_caption": null,
+    "error": "[Errno 2] No such file or directory: './dataset/test/images\\\\9.jpg'"
+  }
+]

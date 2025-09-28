@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+e6042fa5-b32d-4aa2-9213-4561dc272100,tucano_captioning_pracegover,Caption generation for dataset pracegover,N/A,2025-09-28 18:34:38,90.49013376235962,0.0007770078412904764,8.785549960687289e-05,"AMD Ryzen 5 5600X 6-Core Processor/1 device(s), TDP:65.0", 0 device(s),Windows,BR/Rio de Janeiro,0

@@ -1,0 +1,132 @@
+{
+  "images": [
+    {
+      "filepath": "testset",
+      "imgid": 1,
+      "split": "test",
+      "filename": "1.png",
+      "cocoid": 1,
+      "sentids": ["ref-1a"],
+      "sentences": [
+        {
+          "tokens": ["Descrição", "de", "referência", "para", "a", "imagem", "1", "."],
+          "imgid": 1,
+          "raw": "Descrição de referência para a imagem 1.",
+          "sentid": "ref-1a"
+        }
+      ]
+    },
+    {
+      "filepath": "testset",
+      "imgid": 2,
+      "split": "test",
+      "filename": "2.jpg",
+      "cocoid": 2,
+      "sentids": ["ref-2a"],
+      "sentences": [
+        {
+          "tokens": ["Descrição", "de", "referência", "para", "a", "imagem", "2", "."],
+          "imgid": 2,
+          "raw": "Descrição de referência para a imagem 2.",
+          "sentid": "ref-2a"
+        }
+      ]
+    },
+    {
+      "filepath": "testset",
+      "imgid": 3,
+      "split": "test",
+      "filename": "3.jpg",
+      "cocoid": 3,
+      "sentids": ["ref-3a"],
+      "sentences": [
+        {
+          "tokens": ["Descrição", "de", "referência", "para", "a", "imagem", "3", "."],
+          "imgid": 3,
+          "raw": "Descrição de referência para a imagem 3.",
+          "sentid": "ref-3a"
+        }
+      ]
+    },
+    {
+      "filepath": "testset",
+      "imgid": 4,
+      "split": "test",
+      "filename": "4.jpg",
+      "cocoid": 4,
+      "sentids": ["ref-4a"],
+      "sentences": [
+        {
+          "tokens": ["Descrição", "de", "referência", "para", "a", "imagem", "4", "."],
+          "imgid": 4,
+          "raw": "Descrição de referência para a imagem 4.",
+          "sentid": "ref-4a"
+        }
+      ]
+    },
+    {
+      "filepath": "testset",
+      "imgid": 5,
+      "split": "test",
+      "filename": "5.jpg",
+      "cocoid": 5,
+      "sentids": ["ref-5a"],
+      "sentences": [
+        {
+          "tokens": ["Descrição", "de", "referência", "para", "a", "imagem", "5", "."],
+          "imgid": 5,
+          "raw": "Descrição de referência para a imagem 5.",
+          "sentid": "ref-5a"
+        }
+      ]
+    },
+    {
+      "filepath": "testset",
+      "imgid": 6,
+      "split": "test",
+      "filename": "6.jpg",
+      "cocoid": 6,
+      "sentids": ["ref-6a"],
+      "sentences": [
+        {
+          "tokens": ["Descrição", "de", "referência", "para", "a", "imagem", "6", "."],
+          "imgid": 6,
+          "raw": "Descrição de referência para a imagem 6.",
+          "sentid": "ref-6a"
+        }
+      ]
+    },
+    {
+      "filepath": "testset",
+      "imgid": 7,
+      "split": "test",
+      "filename": "7.jpg",
+      "cocoid": 7,
+      "sentids": ["ref-7a"],
+      "sentences": [
+        {
+          "tokens": ["Descrição", "de", "referência", "para", "a", "imagem", "7", "."],
+          "imgid": 7,
+          "raw": "Descrição de referência para a imagem 7.",
+          "sentid": "ref-7a"
+        }
+      ]
+    },
+    {
+      "filepath": "testset",
+      "imgid": 8,
+      "split": "test",
+      "filename": "8.jpg",
+      "cocoid": 8,
+      "sentids": ["ref-8a"],
+      "sentences": [
+        {
+          "tokens": ["Descrição", "de", "referência", "para", "a", "imagem", "8", "."],
+          "imgid": 8,
+          "raw": "Descrição de referência para a imagem 8.",
+          "sentid": "ref-8a"
+        }
+      ]
+    }
+  ]
+}
